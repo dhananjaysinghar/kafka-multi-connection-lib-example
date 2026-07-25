@@ -1,7 +1,7 @@
 # kafka-multi-connection-lib-example
 kafka-multi-connection-lib-example
 
-~~~
+~~~ yaml
 spring:
   application:
     name: kafka-producer-consumer-lib
